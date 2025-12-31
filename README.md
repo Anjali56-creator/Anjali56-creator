@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Anjali+Kumari!;CSE+Student+|+Web+Developer+|+DSA+Learner;Welcome+to+my+Coding+World!🚀)](https://git.io/typing-svg)
 
----
+
 
 ## 🌸 About Me  
 🎓 **B.Tech CSE Student** at **ABES Engineering College, Ghaziabad**  

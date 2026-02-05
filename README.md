@@ -4,12 +4,12 @@
 
 
 
-## 🌸 About Me  
-🎓 **B.Tech CSE Student** at **ABES Engineering College, Ghaziabad**  
-💻 Passionate about **Web Development**, **DSA**, and **Open Source**  
-🌱 Currently learning **Frontend Development (React, JS)**  
-🚀 Solving problems daily on **LeetCode**  
-✨ Motto: *“Keep learning, keep growing 🌱”*
+##  About Me  
+ **B.Tech CSE Student** at **ABES Engineering College, Ghaziabad**  
+ Passionate about **Web Development**, **DSA**, and **Open Source**  
+ Currently learning **Frontend Development (React, JS)**  
+ Solving problems daily on **LeetCode**  
+ Motto: *“Keep learning, keep growing 🌱”*
 
 ---
 
@@ -23,19 +23,19 @@
 ## 🚀 Latest Projects  
 Here are some of my updated repositories:
 
-### ⭐ **LeetCode Submissions**
+###  **LeetCode Submissions**
 My DSA practice & problem explanations.  
 📂 Repo: https://github.com/Anjali56-creator/Leetcode-submissions
 
-### ⭐ **Frontend Web Dev Projects**
+###  **Frontend Web Dev Projects**
 HTML • CSS • JS projects — landing pages, mini apps & UI designs.  
 📂 Repo: https://github.com/Anjali56-creator/html
 
-### ⭐ **Full Stack Development (FSD)**
+###  **Full Stack Development (FSD)**
 College academic + experimental full-stack learning (HTML, CSS, JS, PHP etc.)  
 📂 Repo: https://github.com/Anjali56-creator/FSD--CSE12
 
-### ⭐ **Learning Python + AI/ML**
+###  **Learning Python + AI/ML**
 Your repo with lists, tuples, strings, loops & Python basics.  
 📂 Repo: https://github.com/Anjali56-creator/Learning-Python-AI-ML-
 
@@ -63,11 +63,11 @@ Your repo with lists, tuples, strings, loops & Python basics.
 
 ---
 
-## 🎯 What I’m Working On  
-- 🌐 Building a **personal portfolio website**  
-- 📘 Solving **50 LeetCode problems this month**  
-- 🧠 Strengthening **DSA in C++**  
-- 🤝 Learning **Open Source contributions**  
+##  What I’m Working On  
+-  Building a **personal portfolio website**  
+-  Solving **50 LeetCode problems this month**  
+-  Strengthening **DSA in C++**  
+-  Learning **Open Source contributions**  
 
 ---
 
@@ -87,7 +87,7 @@ Your repo with lists, tuples, strings, loops & Python basics.
 ---
 
 ✨ **Thanks for stopping by!**  
-💡 Let’s build and grow together! 🚀  
+💡 Let’s build and grow together!   
 
 
 ---

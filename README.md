@@ -65,7 +65,6 @@ Your repo with lists, tuples, strings, loops & Python basics.
 
 ##  What I’m Working On  
 -  Building a **personal portfolio website**  
--  Solving **50 LeetCode problems this month**  
 -  Strengthening **DSA in C++**  
 -  Learning **Open Source contributions**  
 

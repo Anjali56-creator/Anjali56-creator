@@ -101,7 +101,7 @@
 
 ---
 
-## 🎯 What I'm Working On Right Now
+##  What I'm Working On Right Now
 
 - 🔨 Building my **personal portfolio website** with React
 - 📊 Exploring **Machine Learning** with scikit-learn & real datasets

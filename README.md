@@ -13,6 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-kumari-379834339)
 [![LeetCode](https://img.shields.io/badge/%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/leetcode_break/)
+[![GeeksforGeeks](https://img.shields.io/badge/%20GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/Anjali56-creator/geeksforgeeks_codes)
 [![GitHub](https://img.shields.io/badge/%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anjali56-creator)
 
 ![](https://komarev.com/ghpvc/?username=Anjali56-creator&label=Profile+Views&color=FF6B9D&style=for-the-badge)
@@ -27,7 +28,7 @@
 
 - 🎯 **Goal:** Become a Full-Stack ML Engineer
 - 🌱 Currently mastering **React.js** and **Python for ML**
-- 💻 Daily problem solver on **LeetCode** (C++)
+- 💻 Daily problem solver on **LeetCode** & **GeeksforGeeks** (C++)
 - 🤝 Open to **internships**, **open source** & **collaborations**
 - ✨ I believe: *"Every bug fixed is a lesson learned."*
 - 📍 Based in **Ghaziabad, India**
@@ -74,6 +75,7 @@
 | 🧩 Project | 💡 About | 🔗 Link |
 |:---:|:---:|:---:|
 | **LeetCode Submissions** | Daily DSA practice in C++ — arrays, trees, DP & more | [View →](https://github.com/Anjali56-creator/Leetcode-submissions) |
+| **GeeksforGeeks Solutions** | DSA problems organized by difficulty — Easy to Hard | [View →](https://github.com/Anjali56-creator/geeksforgeeks_codes) |
 | **Frontend Web Projects** | Landing pages, UI designs & mini apps in HTML/CSS/JS | [View →](https://github.com/Anjali56-creator/html) |
 | **Python + AI/ML Learning** | Hands-on Python fundamentals & intro ML concepts | [View →](https://github.com/Anjali56-creator/Learning-Python-AI-ML-) |
 | **Full Stack Dev (FSD)** | Academic full-stack experiments with HTML, CSS, JS, PHP | [View →](https://github.com/Anjali56-creator/FSD--CSE12) |
@@ -101,11 +103,11 @@
 
 ---
 
-##  What I'm Working On Right Now
+## 🔥 What I'm Working On Right Now
 
 - 🔨 Building my **personal portfolio website** with React
 - 📊 Exploring **Machine Learning** with scikit-learn & real datasets
-- ⚔️ Strengthening **DSA** — trees, graphs & dynamic programming
+- ⚔️ Grinding DSA on **LeetCode** and **GeeksforGeeks** — trees, graphs & DP
 - 🌍 Making my **first open source contribution**
 
 ---

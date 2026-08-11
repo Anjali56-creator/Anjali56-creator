@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-kumari-379834339)
 [![LeetCode](https://img.shields.io/badge/%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/leetcode_break/)
-[![GeeksforGeeks](https://img.shields.io/badge/%20GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/Anjali56-creator/geeksforgeeks_codes)
+[![GeeksforGeeks](https://img.shields.io/badge/%20GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anjaliiii)
 [![GitHub](https://img.shields.io/badge/%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anjali56-creator)
 
 ![](https://komarev.com/ghpvc/?username=Anjali56-creator&label=Profile+Views&color=FF6B9D&style=for-the-badge)
